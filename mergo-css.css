@@ -8,7 +8,7 @@ body {
   background-position: 0 700px, 100% 90%;
   background-size: 350px 350px, 350px 350px;
   background-color: #FAFAFA;
-  overflow-x: hidden;
+  overflow-x: hidden
 }
 
 h1,
@@ -815,12 +815,12 @@ a:hover {
 
 #fullArticle h1.title {
   margin: 0 1em 1.2em 0;
-  color: #246E57;
+  color: #247057;
 }
 
 #fullArticle h3 {
   -webkit-font-smoothing: auto;
-  color: #246E57;
+  color: #247057;
   font-size: 22px;
   font-weight: 500;
   line-height: 32px;
