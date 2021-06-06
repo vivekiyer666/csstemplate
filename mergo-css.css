@@ -432,7 +432,7 @@ footer p a {
     height: 240px;
     background-image: url('https://randylicious.weebly.com/uploads/1/3/6/9/136935818/hell-6-1_orig.png'), url('https://randylicious.weebly.com/uploads/1/3/6/9/136935818/myright-orig_orig.png');
     background-position: left bottom, right bottom;
-    background-size: auto 270px, auto 270px;
+    background-size: auto /*270px, auto 270px*/;
     background-repeat: no-repeat, no-repeat;
     margin-bottom: 50px;
   }
