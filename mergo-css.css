@@ -430,7 +430,7 @@ footer p a {
 @media screen and (max-width: 1024px) {
   #docsSearch {
     height: 240px;
-    background-image: url('https://randylicious.weebly.com/uploads/1/3/6/9/136935818/myleft-orig_orig.png'), url('https://randylicious.weebly.com/uploads/1/3/6/9/136935818/myright-orig_orig.png');
+    background-image: url('https://randylicious.weebly.com/uploads/1/3/6/9/136935818/hell-6-1_orig.png'), url('https://randylicious.weebly.com/uploads/1/3/6/9/136935818/myright-orig_orig.png');
     background-position: left bottom, right bottom;
     background-size: auto 270px, auto 270px;
     background-repeat: no-repeat, no-repeat;
@@ -450,7 +450,7 @@ footer p a {
 
 @media screen and (min-width: 1025px) {
   #docsSearch::before {
-    background-image: url('https://randylicious.weebly.com/uploads/1/3/6/9/136935818/myleft-orig_orig.png');
+    background-image: url('https://randylicious.weebly.com/uploads/1/3/6/9/136935818/hell-6-1_orig.png');
     background-repeat: no-repeat;
     background-size: cover;
     bottom: 0;
