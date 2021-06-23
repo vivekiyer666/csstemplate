@@ -427,7 +427,7 @@ footer p a {
   z-index: 2;
 }
 
-
+/*
 @media screen and (max-width: 1024px) {
   #docsSearch {
     height: 240px;
@@ -437,6 +437,7 @@ footer p a {
     background-repeat: no-repeat, no-repeat;
     margin-bottom: 50px;
   }
+*/
 
   #docsSearch h1 {
     max-width: 400px;
